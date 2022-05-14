@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning python
-- :link: [Realtime Character Counter](mohiqbalrafsanjani.github.io/CC)
+- :link: [Realtime Character Counter](https://mohiqbalrafsanjani.github.io/CC)
+- :link: [Realtime Character to ASCII Code](https://mohiqbalrafsanjani.github.io/C2A)
 
 <!--
 **mohiqbalrafsanjani/mohiqbalrafsanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
