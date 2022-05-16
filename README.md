@@ -1,3 +1,4 @@
+![Banner](Banner.gif)
 ### Hi there 👋
 
 - 🌱 I’m currently learning python
