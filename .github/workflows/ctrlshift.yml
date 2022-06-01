@@ -23,6 +23,6 @@ jobs:
         uses: actions/setup-node@v3
       - run: npm i python
       - run: python -V
-      - run: python .github/workflows/readfile.py
+      - run: python ctrlshift=action/readfile.py
       
       
