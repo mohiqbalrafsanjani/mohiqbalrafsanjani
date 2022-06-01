@@ -19,3 +19,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Test new job"
+      - run: python -v
