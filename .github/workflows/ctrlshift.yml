@@ -22,7 +22,7 @@ jobs:
       - name: Test python
         uses: actions/setup-node@v3
       - run: npm i python
-      - run: python -version
+      - run: python -V
       - run: print("Hello Friend")
       
       
