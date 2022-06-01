@@ -19,6 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Test new job"
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
       - name: Test python
         uses: actions/setup-node@v3
       - run: npm i python
