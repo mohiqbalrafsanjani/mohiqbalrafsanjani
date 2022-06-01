@@ -19,4 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Test new job"
+      - name: Test python
+        uses: actions/setup-node@v3
+      - run: npm i python
       - run: python -v
