@@ -23,11 +23,12 @@ def shift(text,s):
             result += char
     return result
 
-print(shift(text,s))
+cipher = shift(text,s)
+print(cipher)
 
 ff = open("README.md","r")
 fline = ff.readlines()
-fline[2] = text
+fline[2] = cipher
 
 with open("README.md","w", encoding="utf-8") as file:
    file.writelines(fline) 
