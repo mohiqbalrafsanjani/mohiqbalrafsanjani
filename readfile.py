@@ -22,3 +22,8 @@ def shift(text,s):
     return result
 
 print(shift(text,s))
+
+ff = open("README.md","r")
+fline = ff.readlines()
+fline[2] = text
+ff.writelines(fline)
