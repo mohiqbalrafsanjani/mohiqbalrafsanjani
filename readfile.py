@@ -26,4 +26,6 @@ print(shift(text,s))
 ff = open("README.md","r")
 fline = ff.readlines()
 fline[2] = text
-ff.writelines(fline)
+
+with open("README.md","w", encoding="utf-8") as file:
+   file.writelines(fline) 
