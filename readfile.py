@@ -14,6 +14,6 @@ def shift(text,s):
             result += chr((ord(char) + s-65) % 26 + 65)
         else:
             result += chr((ord(char) + s-97) % 26 +97)
-        return result
+    return result
 
 print(shift(text,s))
