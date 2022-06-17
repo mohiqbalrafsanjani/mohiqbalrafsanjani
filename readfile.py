@@ -1,10 +1,12 @@
 import random
 import re
 
-r = random.randint(0,13)
+r = random.randint(0,12)
 s = random.randint(1,26)
 f = open("list.txt","r")
 ##print(f.read())
+print(r)
+print(s)
 line = f.readlines()
 text = line[r]
 
