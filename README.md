@@ -2,8 +2,23 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning python
+
+### 2022 
+
+- :link: [Favorite Movies Website .NET6 + Angular](https://github.com/mohiqbalrafsanjani/csharp_kemenkeu)
 - :link: [Realtime Character Counter](https://mohiqbalrafsanjani.github.io/CC)
 - :link: [Realtime Character to ASCII Code](https://mohiqbalrafsanjani.github.io/C2A)
+
+### University
+
+- :link: [Final Project MATLAB](https://github.com/mohiqbalrafsanjani/FinalProject)
+- :link: [Alita Hotel PHP CodeIgniter](https://github.com/mohiqbalrafsanjani/AlitaHotel)
+- :link: [House For Sale 3D Basic4GL](https://github.com/mohiqbalrafsanjani/HouseForSale_3D)
+
+### HighSchool
+
+- :link: [Sistem Informasi Akademik PHP Native](https://github.com/mohiqbalrafsanjani/Sistem_Informasi_Akademik)
+- :link: [Bandeng E-Commerce PHP Native](https://github.com/mohiqbalrafsanjani/Bandeng)
 
 <!--
 **mohiqbalrafsanjani/mohiqbalrafsanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
