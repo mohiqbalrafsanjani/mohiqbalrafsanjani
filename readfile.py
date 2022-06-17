@@ -2,7 +2,7 @@ import random
 import re
 
 r = random.randint(0,12)
-s = random.randint(1,26)
+s = random.randint(1,25)
 f = open("list.txt","r")
 ##print(f.read())
 print(r)
@@ -31,3 +31,5 @@ fline[2] = text
 
 with open("README.md","w", encoding="utf-8") as file:
    file.writelines(fline) 
+
+print(fline)
