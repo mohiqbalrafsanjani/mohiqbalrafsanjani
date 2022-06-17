@@ -1,2 +1,4 @@
 f = open("README.md","r")
-print(f.read())
+##print(f.read())
+line = f.readlines()
+print(line[4])
