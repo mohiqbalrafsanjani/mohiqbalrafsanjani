@@ -8,6 +8,7 @@
 - :link: [Favorite Movies Website .NET6 + Angular](https://github.com/mohiqbalrafsanjani/csharp_kemenkeu)
 - :link: [Realtime Character Counter](https://mohiqbalrafsanjani.github.io/CC)
 - :link: [Realtime Character to ASCII Code](https://mohiqbalrafsanjani.github.io/C2A)
+- :link: [Scientific Computing with Python](https://www.freecodecamp.org/certification/mohiqbalrafsanjani/scientific-computing-with-python-v7)
 
 ### University
 
