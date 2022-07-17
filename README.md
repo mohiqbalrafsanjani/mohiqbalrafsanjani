@@ -1,7 +1,7 @@
 ![Banner](Banner.gif)
 ### Hi there 👋
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning rust
 
 ### 2022 
 
