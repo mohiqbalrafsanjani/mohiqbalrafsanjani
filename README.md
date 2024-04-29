@@ -1,7 +1,7 @@
 ![Banner](Banner.gif)
 ### Hi there 👋
 
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning Artificial Intelligence
 
 ### 2022 
 
