@@ -1,7 +1,7 @@
 ![Banner](Banner.gif)
 ### Hi there 👋
 
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Haskell
 
 ### 2022 
 
