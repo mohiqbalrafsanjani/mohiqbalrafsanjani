@@ -1,7 +1,10 @@
 ![Banner](Banner.gif)
 ### Hi there 👋
 
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning AI and Machine Learning
+
+### 2025
+- :link: [Introduction to Cybersecurity](https://www.credly.com/badges/633e2d64-1715-47af-8060-7d38c1420b88/linked_in?t=spm1lb)
 
 ### 2022 
 
