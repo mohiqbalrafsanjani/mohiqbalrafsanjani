@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning AI and Machine Learning
 
 ### 2025
+
+- :link: [Python by Kaggle](https://www.kaggle.com/learn/certification/mohiqbalrafsanjani/python)
 - :link: [AI Agents Fundamentals](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/iqbaloutlaw/2025-02-24.png)
 - :link: [Introduction to Cybersecurity](https://www.credly.com/badges/633e2d64-1715-47af-8060-7d38c1420b88/linked_in?t=spm1lb)
 
